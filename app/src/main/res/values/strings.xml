@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Implicit Intent</string>
+    <string name="explicit_button">Klik disini untuk Explicit Intent</string>
+    <string name="implicit_button">Klik disini untuk Implicit Intent</string>
+    <string name="textView">Ini adalah halaman kedua</string>
+    <string name="input_nama">Masukkan Nama</string>
+    <string name="nama">Nama Anda adalah</string>
+</resources>
